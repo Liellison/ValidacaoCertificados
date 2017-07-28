@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="aut">Autenticação Certificados CAAT</string>
+    <string name="etMatricula">Informe a matricula do aluno</string>
+    <string name="obs">Por favor informar somente os numeros sem espaço ou outros tipos de simbolos</string>
+    <string name="btVerifica">Verificar</string>
+</resources>
